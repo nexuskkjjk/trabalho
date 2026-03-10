@@ -1,0 +1,5 @@
+{
+  "name": "Iris Statistics Lab",
+  "description": "An educational tool for descriptive statistics analysis using the classic Iris dataset, featuring manual algorithm implementations.",
+  "requestFramePermissions": []
+}
